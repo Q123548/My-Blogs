@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fc4f336c","path":"/Frame/Vue/%E6%A8%A1%E6%9D%BF%E8%AF%AD%E6%B3%95.html","title":"模板语法","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"Frame/Vue/模板语法.md"}');export{e as data};

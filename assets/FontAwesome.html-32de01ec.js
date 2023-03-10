@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-52f38b05","path":"/Web/CSS/FontAwesome.html","title":"Font Awesome","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"安装","slug":"安装","link":"#安装","children":[]},{"level":2,"title":"使用","slug":"使用","link":"#使用","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"Web/CSS/FontAwesome.md"}');export{e as data};
